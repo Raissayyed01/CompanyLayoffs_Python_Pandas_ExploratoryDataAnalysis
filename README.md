@@ -1,4 +1,4 @@
-# CompanyLayoffs_Python_Pandas_ExploratoryDataAnalysis
+# WorldPopulation_Python_Pandas_ExploratoryDataAnalysis
 This project performs Exploratory Data Analysis (EDA) on a world population dataset using Pandas, Matplotlib, and Seaborn. It begins with data inspection through null checks, unique counts, and descriptive statistics to assess dataset quality.The analysis explores patterns by sorting, grouping countries by continent, and evaluating correlations between different years of population data.
 
 Key insights are presented through visualizations such as heatmaps and charts, highlighting global and continental population trends over time. The project demonstrates practical steps in data cleaning, transformation, and visualization, making it a hands-on example of how Python’s data science tools can be applied to real-world datasets.
